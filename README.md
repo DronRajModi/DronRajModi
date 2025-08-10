@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="banner.png" alt="Dron Raj Modi Banner" width="100%">
-</p>
-
 <h1 align="center">💻 Hello, Myself <span style="color:#00FFFF;">Dron Raj Modi</span> 🚀</h1>
 
 <p align="center">
